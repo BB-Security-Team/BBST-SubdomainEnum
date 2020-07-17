@@ -28,6 +28,6 @@ Load plugin from extender option in Burp Suite, download the [Release](https://g
  
 ## BBST TEAM
 
-[Abel Romero](https://twitter.com/AbelRom43867056)
-[Malkov](https://twitter.com/Navaiklam) 
-[Snifer](https://twitter.com/sniferl4bs) 
+- [Abel Romero](https://twitter.com/AbelRom43867056)
+- [Malkov](https://twitter.com/Navaiklam) 
+- [Snifer](https://twitter.com/sniferl4bs) 
