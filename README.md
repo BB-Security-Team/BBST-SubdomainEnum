@@ -19,7 +19,7 @@ Load plugin from extender option in Burp Suite, download the [Release](https://g
  
 ## Usage
 
-[![Watch the video](https://1.bp.blogspot.com/-WsuN4L_HMc8/XxD3-S2Xt3I/AAAAAAAAKlE/GqcC7APY3HY-xj-5C3dcKcZIg74vASbKgCLcBGAsYHQ/s1089/InterfazNormalREgular.png)](https://www.youtube.com/c/SniferL4bs)
+[![Watch the video](https://1.bp.blogspot.com/-WsuN4L_HMc8/XxD3-S2Xt3I/AAAAAAAAKlE/GqcC7APY3HY-xj-5C3dcKcZIg74vASbKgCLcBGAsYHQ/s1089/InterfazNormalREgular.png)](https://youtu.be/D8imaKAF1Pw)
  
 ## Report bugs and Collaborate
 
